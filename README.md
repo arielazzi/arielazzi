@@ -31,4 +31,4 @@ I'm a {backend, frontend and mobile} developer and technical instructor at [@tre
 - [Website](https://fagnerpsantos.dev/) 💻 - Working on it.
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arielazzi&theme=tokyonight)](https://github-readme-stats.vercel.app/api/top-langs/?username=arielazzi&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=arielazzi&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=arielazzi&show_icons=true&theme=radical)
